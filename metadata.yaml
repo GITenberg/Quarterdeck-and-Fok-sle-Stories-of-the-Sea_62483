@@ -1,5 +1,8 @@
 _repo: Quarterdeck-and-Fok-sle-Stories-of-the-Sea_62483
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62483-h/images/cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43099
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62483#Quarterdeck-and-Fok-sle-Stories-of-the-Sea
 gutenberg_issued: '2020-06-26'
 gutenberg_type: Text
 identifiers:
